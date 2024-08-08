@@ -15,7 +15,11 @@ This project significantly improved data management and provided stakeholders wi
 ### Technologies Used:
 
 Azure Data Factory
+
 Azure Data Lake Storage Gen2
+
 Azure Databricks
+
 Azure Synapse Analytics
+
 Power BI
